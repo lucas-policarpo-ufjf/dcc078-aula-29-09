@@ -1,3 +1,3 @@
 # dcc078-singleton-29-09
 
-![Diagrama](./diagrama_singleton.png)
+![Diagrama](./diagrama--singleton.png)
